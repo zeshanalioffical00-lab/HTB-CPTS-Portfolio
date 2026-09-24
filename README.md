@@ -91,7 +91,7 @@ All techniques documented here were practiced in **Hack The Box Academy's author
 ## 📬 Connect
 
 - **GitHub:** github.com/zeshanalioffical00-lab
-- **Email:** shaanali127313@gmail.com
+- **Email:** zeshanalioffical00@gmail.com
 
 ---
 
